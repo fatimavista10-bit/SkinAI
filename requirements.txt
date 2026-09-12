@@ -1,0 +1,7 @@
+gradio
+tensorflow
+huggingface_hub
+groq
+pandas
+numpy
+Pillow
