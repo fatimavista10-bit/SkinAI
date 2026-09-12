@@ -2,7 +2,6 @@
 import os
 from urllib.parse import quote_plus
 
-import gradio as gr
 import numpy as np
 import pandas as pd
 import tensorflow as tf
