@@ -1,0 +1,38 @@
+Product,Category,Skin_Profile,Concern,Budget_Level,Price_PKR,Brand_Type
+Saeed Ghani Neem Face Wash,Cleanser,Oily,"Acne, Oil Control",Low,250,Local
+Vince Oil-Free Moisturizer,Moisturizer,Oily,Oil Control,Low,950,Local
+Jenpharm Spectra Matt Sunblock,Sunscreen,Oily,Oil Control,Low,1200,Local
+Kashee's Liquid Foundation,Foundation,Oily,Matte Finish,Low,800,Local
+Miss Rose Matte Foundation,Foundation,Oily,Matte Finish,Low,1200,Local
+Neutrogena Oil-Free Acne Wash,Cleanser,Oily,"Acne, Oil Control",Medium,2200,Commercial
+The Ordinary Natural Moisturizing Factors,Moisturizer,Oily,Hydration,Medium,3500,Commercial
+La Roche-Posay Anthelios Oil Control,Sunscreen,Oily,Oil Control,Medium,5500,Commercial
+Maybelline Fit Me Matte + Poreless Foundation,Foundation,Oily,Matte Finish,Medium,3200,Commercial
+Dermalogica Clearing Skin Wash,Cleanser,Oily,"Acne, Oil Control",Luxury,14000,Luxury
+Clinique Hydrating Jelly,Moisturizer,Oily,Hydration,Luxury,12500,Luxury
+Shiseido Urban Environment Oil-Free,Sunscreen,Oily,Oil Control,Luxury,16000,Luxury
+Estée Lauder Double Wear Stay-in-Place,Foundation,Oily,Matte Finish,Luxury,18500,Luxury
+Hemani Aloe Vera Face Wash,Cleanser,"Dry, Sensitive",Dryness,Low,350,Local
+Vince Hydra Face Cream,Moisturizer,"Dry, Sensitive","Dryness, Hydration",Low,1100,Local
+Nexton Sunblock Cream,Sunscreen,"Dry, Sensitive",Sun Protection,Low,600,Local
+Christine Liquid Foundation Silk Smooth,Foundation,"Dry, Sensitive",Smooth Finish,Low,700,Local
+CeraVe Hydrating Facial Cleanser,Cleanser,"Dry, Sensitive","Dryness, Hydration",Medium,3800,Commercial
+Cetaphil Moisturizing Cream,Moisturizer,"Dry, Sensitive","Dryness, Hydration",Medium,4200,Commercial
+Biore UV Aqua Rich Watery Essence,Sunscreen,"Dry, Sensitive",Sun Protection,Medium,4800,Commercial
+L'Oréal Infallible 24H Fresh Wear,Foundation,"Dry, Sensitive",Smooth Finish,Medium,4500,Commercial
+Kiehl's Ultra Facial Cleanser,Cleanser,"Dry, Sensitive",Dryness,Luxury,9500,Luxury
+La Mer Crème de la Mer,Moisturizer,"Dry, Sensitive","Dryness, Hydration",Luxury,45000,Luxury
+Laneige Hydro UV Defense,Sunscreen,"Dry, Sensitive",Sun Protection,Luxury,11000,Luxury
+Giorgio Armani Luminous Silk Foundation,Foundation,"Dry, Sensitive",Smooth Finish,Luxury,22000,Luxury
+WB by Hemani Vitamin C Face Wash,Cleanser,Combination,"Dark Spots, Dullness",Low,450,Local
+Organic Traveller Quench Cream,Moisturizer,Combination,Hydration,Low,1600,Local
+Primary Skin C-Glow Sunscreen,Sunscreen,Combination,"Dark Spots, Dullness",Low,1800,Local
+Masarrat Misbah Silk Foundation,Foundation,Combination,Smooth Finish,Low,2400,Local
+COSRX Low pH Good Morning Gel,Cleanser,Combination,Dullness,Medium,3200,Commercial
+Beauty of Joseon Dynasty Cream,Moisturizer,Combination,"Hydration, Dullness",Medium,4500,Commercial
+Beauty of Joseon Relief Sun,Sunscreen,Combination,"Dark Spots, Dullness",Medium,4900,Commercial
+Huda Beauty FauxFilter Luminous Matte,Foundation,Combination,Smooth Finish,Medium,13500,Commercial
+SK-II Facial Treatment Cleanser,Cleanser,Combination,Dullness,Luxury,22000,Luxury
+Estée Lauder Revitalizing Supreme+,Moisturizer,Combination,"Dullness, Hydration",Luxury,28000,Luxury
+Murad City Skin Age Defense,Sunscreen,Combination,"Dark Spots, Dullness",Luxury,21000,Luxury
+NARS Natural Radiant Longwear Foundation,Foundation,Combination,Smooth Finish,Luxury,16500,Luxury
